@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: jquery
-        image: 306518615214.dkr.ecr.us-east-2.amazonaws.com/jquery:1
+        image: 306518615214.dkr.ecr.us-east-2.amazonaws.com/jquery:vamsi
         ports:
         - containerPort: 80
 ---
